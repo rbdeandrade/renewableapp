@@ -13,7 +13,7 @@
  ## Permita utilização da camera e motion sensors
  Permita a utilização da sua camera e motion sensor. Depois aponte para a Imagem [(ou clique aqui para abrir)](https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/nft/fridge.jpg):
 
- ![fridge](https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/nft/fridge.jpg)
+ <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/nft/fridge.jpg" width="400">
 
  Veja as Telas
 
