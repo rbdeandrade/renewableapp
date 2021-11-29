@@ -15,10 +15,28 @@
 
  ![fridge](https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/nft/fridge.jpg)
 
- Veja as Telas:
+ Veja as Telas
+
+ 1:
+
  <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/1.jpg" width="200">
+
+ 2:
+
  <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/2.jpg" width="200">
+
+ 3:
+
  <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/3.jpg" width="200">
+
+ 4:
+
  <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/4.jpg" width="200">
+
+ 5:
+
  <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/5.jpg" width="200">
+ 
+ 6:
+
  <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/6.jpg" width="200">
