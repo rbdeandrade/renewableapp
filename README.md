@@ -35,7 +35,7 @@
 
  5:
 
- <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/5.png" width="200">
+ <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/5.PNG" width="200">
 
  6:
 
