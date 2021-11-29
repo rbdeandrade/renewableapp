@@ -16,9 +16,9 @@
  ![fridge](https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/nft/fridge.jpg)
 
  Veja as Telas:
- <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/1.jpg" width="100">
- <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/2.jpg" width="100">
- <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/3.jpg" width="100">
- <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/4.jpg" width="100">
- <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/5.jpg" width="100">
- <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/6.jpg" width="100">
+ <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/1.jpg" width="200">
+ <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/2.jpg" width="200">
+ <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/3.jpg" width="200">
+ <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/4.jpg" width="200">
+ <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/5.jpg" width="200">
+ <img src="https://raw.githubusercontent.com/rbdeandrade/renewableapp/main/test/6.jpg" width="200">
