@@ -7,6 +7,13 @@ https://www.figma.com/proto/GS5XQK4CDKc5SfQLdM9mVO/RenewableApp?node-id=1%3A916&
 
 ## Link para o Website
 [https://rbdeandrade.github.io/renewableappwebsite/](https://rbdeandrade.github.io/renewableappwebsite/)
+
+## Presentation
+https://github.com/rbdeandrade/renewableapp/blob/main/RenatoAndradeTheRenewableApp-GoGreenGoSocial.pdf
+
+## Folder
+https://github.com/rbdeandrade/renewableapp/blob/main/folder.pdf
+
 ## Link para o App
 
 ### Etapas:
